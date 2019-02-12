@@ -26,6 +26,8 @@
 
 [iMacros](https://addons.mozilla.org/zh-CN/firefox/addon/imacros-for-firefox/) 如果你厌倦了重复性的任务比如每天访问相同的网站，填写表单，记忆密码，那么 iMacros 就是你梦想的解决方案! 如果有什么行动你需要重复，只需在 iMacros 中记录它。下次你需要做它时，只需点击一个按钮整个宏就会运行！使用的极限只取决与你的想象力！任何你用 FireFox 做的事情，iMacros 都可以自动执行它。
 
+[Kantu](https://addons.mozilla.org/zh-CN/firefox/addon/kantu/) 开源的 Selenium IDE, 现代的网页自动化工具 （支持行为录制和回放）。适用于网页自动化测试，表单填写以及网页内容抓取。
+
 [哔哩哔哩弹幕过滤器](https://s.xmcp.ml/pakkujs/) 弹幕复读终结者！瞬间合并B站的刷屏弹幕，还你清爽的弹幕体验。
 
 [ImTranslator](https://addons.mozilla.org/zh-CN/firefox/addon/imtranslator/) 在线翻译，包括在线翻译，词典，文本到语音，虚拟键盘，拼写检查，俄罗斯解码器，回译，电子邮件服务。
