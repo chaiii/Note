@@ -40,6 +40,10 @@
 
 [简悦](http://ksria.com/simpread/) 让你瞬间进入沉浸式阅读的扩展。
 
+[Enhancer for YouTube](https://addons.mozilla.org/zh-CN/firefox/addon/enhancer-for-youtube/) 海量自定义功能提升您的 YouTube 用户体验。
+
+[HighlightAll](https://addons.mozilla.org/zh-CN/firefox/addon/highlightall/) 关键词高亮。
+
 ## 以下是只兼容到 55 版本或者已经没有官方下载渠道的拓展
 
 如果你和我一样还在坚持用旧版 Firefox，可以自行搜索寻找下载渠道体验下面这些超赞的拓展：
